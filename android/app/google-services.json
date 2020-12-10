@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828910949616",
+    "project_id": "techmediafinal",
+    "storage_bucket": "techmediafinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828910949616:android:4a9210888e8a2af63fde35",
+        "android_client_info": {
+          "package_name": "com.example.technologymedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828910949616-vkn4oqo6f57li5u09mnras2p2tg0grd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtcWDs1bzDon65yDpaSfYZG-wSEJN7Dvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828910949616-vkn4oqo6f57li5u09mnras2p2tg0grd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
